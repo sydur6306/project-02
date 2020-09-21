@@ -1,0 +1,176 @@
+section{
+	width:1200px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+.box{
+	height: 141px;
+    width: 33.33%;
+    float: left;
+    padding: 3px;
+    box-sizing: border-box;
+}
+p{
+	padding: 10px;
+	color:#fff;
+}
+.box1{
+	height: 141px;
+    width: 100%;
+    overflow: hidden;
+    padding: 3px;
+    box-sizing: border-box;
+}
+.box2{
+	height: 141px;
+	width:50%;
+	float: left;
+	padding: 3px;
+	box-sizing: border-box;
+}
+.box3{
+	height: 141px;
+	width:70%;
+	float: left;
+	padding: 3px;
+	box-sizing: border-box;
+	margin-top: 10px;
+}
+.box4{
+	height: 141px;
+	width:15%;
+	float: left;
+	padding: 3px;
+	box-sizing: border-box;
+	margin-top: 10px;
+}
+.box5{
+	height: 141px;
+	width:15%;
+	float: left;
+	padding: 3px;
+	box-sizing: border-box;
+	margin-top: 10px;
+}
+.color1{
+	height: 100%;
+	background: #1E88E5;
+}
+.color2{
+	height: 100%;
+	background: green;
+}
+.color3{
+	height: 100%;
+	background: red;
+}
+.color4{
+	background: #2f3cc5;
+    height: 100%;
+    margin-top: 29px;
+}
+.color5{
+	background: #333;
+	height: 100%;
+	margin-top: 10px;
+}
+.color6{
+	background: #169548;
+	height: 100%;
+	margin-top: 10px;
+}
+.color7{
+	background: crimson;
+	height: 100%;
+	margin-top: 10px;
+}
+.color8{
+	background: #227442e0;
+	height: 100%;
+	margin-top: 10px;
+}
+.color9{
+	background: #0c21ffd6;
+	height: 100%;
+	margin-top: 10px;
+}
+#main{
+	width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    background: #ddd;
+    padding: 20px;
+    box-shadow: 1px 2px 3px 4px gray;
+}
+.boxx{
+	width:33.33%;
+	float: left;
+	box-sizing: border-box;
+	padding: 20px;
+}
+.boxx p{
+	color:#fff;
+	font-size:22px;
+	margin:0;
+	text-align: justify;
+}
+.red{
+	background: red;
+	padding: 20px;
+}
+.gray{
+	background: gray;
+	padding: 20px;
+}
+.orange{
+	background: orange;
+	padding: 20px;
+}
+.red1{
+	background: green;
+	padding: 20px;
+}
+.gray2{
+	background: black;
+	padding: 20px;
+}
+.orange3{
+	background: coral;
+	padding: 20px;
+}
+.pic{
+	width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    background: gray;
+    padding: 20px;
+}
+.pic1{
+	 width: 33.33%;
+    float: left;
+    padding: 3px;
+    box-sizing: border-box;
+}
+.pic1 img{
+	width:100%;
+	height:315px;
+}
+.tipu{
+	width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    background: green;
+}
+.tipu p{
+	font-size: 30px;
+	text-align: justify;
+	padding: 20px;
+}
+.tipu h1{
+	font-size: 80px;
+	color:crimson;
+	text-align: center;
+}
